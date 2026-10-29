@@ -1,6 +1,6 @@
 # Magic 8 Ball
 
-![Screenshot of Magic 8 Ball](https://github.com/yeri63-hp48g/Magic-8-Ball/raw/main/Ball.png)
+![Screenshot of Magic 8 Ball](Ball.png)
 
 Re-live the antics of the original Magic 8 Ball, now ported to the HP-48GX. Instead of a white plastic icosahedron (a polyhedron with 20 faces) die, floating in alcohol dyed dark blue, the calculator uses a pseudo-random number generator to determine which message to display on the LCD screen. In the past, the only way to ensure a random message would be to shake the ball first. With this version, that's no longer necessary.
 
